@@ -1,0 +1,22 @@
+{
+  "name": "express-ejs-section",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chan-jor/express-ejs-section.git"
+  },
+  "author": "chan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chan-jor/express-ejs-section/issues"
+  },
+  "homepage": "https://github.com/chan-jor/express-ejs-section#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
