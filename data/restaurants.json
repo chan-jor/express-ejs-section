@@ -1,5 +1,6 @@
 [
   {
+    "id": "r1",
     "name": "Test",
     "address": "Teststreet5 , tE",
     "cuisine": "Italian",
@@ -7,6 +8,7 @@
     "description": "test!"
   },
   {
+    "id": "r2",
     "name": "Test2",
     "address": "Teststreet 10, test",
     "cuisine": "indian",
@@ -14,10 +16,19 @@
     "description": "TestTEST!!!"
   },
   {
+    "id": "r3",
     "name": "Restaurant 3",
     "address": "Awsomestreet 5, Mycity",
     "cuisine": "German",
     "website": "https://www.apple.com",
     "description": "Good!!!"
+  },
+  {
+    "name": "Munich Fines Restaurant",
+    "address": "Greatstreet 5, Munich",
+    "cuisine": "German",
+    "website": "https://munich-awesome.com",
+    "description": "It's in Munich, that's where I live!",
+    "id": "43b305fb-90cc-4951-8caf-bbd5ed1963d2"
   }
 ]
